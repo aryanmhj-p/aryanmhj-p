@@ -64,11 +64,11 @@ Kinematic modeling, trajectory planning, and control of a PUMA robotic arm.
 Sharif University of Technology  
 Expected Graduation: June 2027
 
-## 🔬 Current Research Project
+## 🔬 Current Project
 
-**Co-Optimization of Gear Ratios and Energy Management Strategy in Multi-Mode DHT for Hybrid Vehicles**
+**Modeling, Control & Optimization of Hybrid Vehicle Systems**
 
-Working on the analysis and reverse-engineering of a multi-mode hybrid powertrain controller using MATLAB/Simulink and Stateflow, with a focus on gear-ratio optimization and energy management.
+Working on the analysis and modeling of a multi-mode hybrid vehicle system using MATLAB/Simulink and Stateflow, with a focus on control and system optimization.
 
 ## 📫 Connect
 
