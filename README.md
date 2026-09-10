@@ -72,5 +72,5 @@ Working on the analysis and reverse-engineering of a multi-mode hybrid powertrai
 
 ## 📫 Connect
 
-- [LinkedIn]((https://www.linkedin.com/in/aryan-mahjoubi-ba66a0261?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+- [LinkedIn](https://www.linkedin.com/in/aryan-mahjoubi-ba66a0261)
 - [GitHub](https://github.com/aryanmhj-p)
