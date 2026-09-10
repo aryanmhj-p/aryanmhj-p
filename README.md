@@ -10,6 +10,7 @@ I'm a Mechanical Engineering undergraduate at Sharif University of Technology, i
 - Mechanical System Design
 - Robotics & Mechatronics
 - Hybrid & Electric Vehicles
+- Automation
 
 ## 🛠️ Technical Skills
 
@@ -34,7 +35,6 @@ I'm a Mechanical Engineering undergraduate at Sharif University of Technology, i
 - Python
 - NumPy
 - PyTorch
-- Data-driven methods
 
 ## 🚗 Selected Projects
 
