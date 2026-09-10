@@ -68,7 +68,7 @@ Expected Graduation: June 2027
 
 **Modeling, Control & Optimization of Hybrid Vehicle Systems**
 
-Working on the analysis and modeling of a multi-mode hybrid vehicle system using MATLAB/Simulink and Stateflow, with a focus on control and system optimization.
+Working on the analysis of a multi-mode hybrid vehicle system using MATLAB/Simulink and Stateflow, with a focus on control and system optimization.
 
 ## 📫 Connect
 
