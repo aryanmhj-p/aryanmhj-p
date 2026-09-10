@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi, I'm Aryan Mahjoubi 👋
 
-<!--
-**aryanmhj-p/aryanmhj-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mechanical Engineering undergraduate at Sharif University of Technology, interested in the intersection of mechanical systems, vehicle engineering, and control.
 
-Here are some ideas to get you started:
+## 🔧 Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Vehicle Dynamics
+- Automotive Control
+- Control Systems
+- Mechanical System Design
+- Robotics & Mechatronics
+- Hybrid & Electric Vehicles
+
+## 🛠️ Technical Skills
+
+### CAD & Mechanical Design
+- SolidWorks
+- Geomagic
+- Machine Design
+- Mechanism Design
+- Mechanical System Design
+- Engineering Drawings
+
+### Simulation & Engineering Software
+- MATLAB
+- Simulink
+- Stateflow
+- ANSYS Fluent
+- ANSYS Mechanical
+- CarSim
+- FESTO FluidSIM
+
+### Programming & Data
+- Python
+- NumPy
+- PyTorch
+- Data-driven methods
+
+## 🚗 Selected Projects
+
+### Nissan 350Z High-Angle Steering System
+Reverse-engineering and simulation-based evaluation of a modular high-angle steering system for a Nissan 350Z drift application.
+
+**Tools:** SolidWorks, Geomagic, CarSim
+
+### 1/2-Scale Electric Drift Vehicle
+Ongoing design of a 1/2-scale Nissan 350Z-inspired electric vehicle, including chassis, suspension, drivetrain, braking, and powertrain sizing.
+
+**Tools:** SolidWorks
+
+### Two-Stage Helical Gearbox
+Mechanical design of an 11 kW two-stage helical gearbox, including gear, shaft, bearing, key, lubrication, housing, and manufacturing considerations.
+
+**Tools:** SolidWorks
+
+### PUMA Robotic Arm
+Kinematic modeling, trajectory planning, and control of a PUMA robotic arm.
+
+**Tools:** MATLAB, Simulink
+
+## 🎓 Education
+
+**B.Sc. Mechanical Engineering**  
+Sharif University of Technology  
+Expected Graduation: June 2027
+
+## 🔬 Current Research Project
+
+**Co-Optimization of Gear Ratios and Energy Management Strategy in Multi-Mode DHT for Hybrid Vehicles**
+
+Working on the analysis and reverse-engineering of a multi-mode hybrid powertrain controller using MATLAB/Simulink and Stateflow, with a focus on gear-ratio optimization and energy management.
+
+## 📫 Connect
+
+- [LinkedIn]((https://www.linkedin.com/in/aryan-mahjoubi-ba66a0261?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+- [GitHub](https://github.com/aryanmhj-p)
