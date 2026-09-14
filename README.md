@@ -7,7 +7,6 @@ I am an undergraduate Mechanical Engineering student at **Sharif University of T
 ### 🔧 Focus Areas
 - Vehicle Dynamics & Chassis Kinematics
 - Automotive & Feedback Control Systems
-- Computational Methods & Scientific Python
 - Hybrid & Electric Powertrain Sizing
 - Advanced CAD, Machine Design & Tooling
 
