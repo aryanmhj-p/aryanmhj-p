@@ -1,25 +1,19 @@
 # Hi, I'm Aryan Mahjoubi 👋
 
-I am an undergraduate Mechanical Engineering student at **Sharif University of Technology**, passionate about the intersection of **Vehicle Dynamics**, **Control Systems**, and **Mechanical Design**.
+I am a Mechanical Engineering undergraduate at **Sharif University of Technology**, focusing on **Vehicle Dynamics**, **Automotive Control**, and **Mechatronics**. My work bridges physical mechanical design with multi-body dynamics, control theory, and system simulation.
 
 ---
 
 ### 🔧 Focus Areas
-- Vehicle Dynamics & Chassis Engineering
-- Automotive & Multivariable Control Systems
-- Hybrid & Electric Powertrain Sizing & Optimization
-- Robotics, Mechatronics & Kinematics
-- Advanced CAD Modeling & Reverse Engineering
+- Vehicle Dynamics & Chassis Kinematics
+- Automotive & Feedback Control Systems
+- Hybrid & Electric Powertrain Sizing & Energy Management
+- Robotics, Mechatronics & Trajectory Generation
+- Electro-Hydraulics & Machine Design
 
 ---
 
 ### 🛠️ Technical Toolkit
-
-**CAD & Mechanical Design**  
-![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white)
-![ANSYS](https://img.shields.io/badge/ANSYS-FFB300?style=flat-square&logo=ansys&logoColor=black)
-![Reverse Engineering](https://img.shields.io/badge/Geomagic_Design_X-00599C?style=flat-square)
-*Machine Design • Mechanism Synthesis • Technical Drawings & GD&T*
 
 **Simulation & Computing**  
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
@@ -28,7 +22,13 @@ I am an undergraduate Mechanical Engineering student at **Sharif University of T
 ![CarSim](https://img.shields.io/badge/CarSim-003366?style=flat-square)
 ![Festo FluidSIM](https://img.shields.io/badge/Festo_FluidSIM-0099FF?style=flat-square)
 
-**Programming & Data**  
+**Mechanical Design & CAD**  
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white)
+![Geomagic](https://img.shields.io/badge/Geomagic_Design_X-00599C?style=flat-square)
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB300?style=flat-square&logo=ansys&logoColor=black)
+*Mechanism Synthesis • DFM • Tooling Standards (DIN / ISO / FIBRO)*
+
+**Programming & Tools**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -36,41 +36,39 @@ I am an undergraduate Mechanical Engineering student at **Sharif University of T
 
 ---
 
-### 🚗 Selected Projects
+### 🚗 Featured Engineering Projects
 
-#### 🔹 [Nissan 350Z High-Angle Steering System](https://github.com/aryanmhj-p)
-> Reverse-engineering and simulation-based kinematic evaluation of a modular high-angle steering geometry tailored for drift vehicle dynamics.  
-> **Tools:** `SolidWorks` `Geomagic` `CarSim`
+#### 🔹 [Modular High-Angle Steering Kit (Nissan 350Z)](https://github.com/aryanmhj-p/nissan-350z-drift-steering-kit)
+> Point-cloud processing (Geomagic), kinematic synthesis, subframe relocation, and CarSim multi-body dynamic simulation of an adjustable Ackermann drift steering kit ($41^\circ$ lock).  
+> **Tools:** `SolidWorks` `Geomagic` `CarSim` `Vehicle Dynamics`
 
-#### 🔹 [1/2-Scale Electric Drift Vehicle](https://github.com/aryanmhj-p) *(Ongoing)*
-> End-to-end design of a 1/2-scale electric vehicle platform inspired by the Nissan 350Z. Encompasses custom tubular chassis, suspension geometry, powertrain sizing (motor & battery pack), and braking calculations.  
-> **Tools:** `SolidWorks` `Engineering Mechanics`
+#### 🔹 [Industrial Electro-Hydraulic Power Unit (HPU)](https://github.com/aryanmhj-p/industrial-hydraulic-power-pack)
+> Catalog-based component sizing, Euler buckling stability verification ($S.F. = 2.11$), and modular Bosch Rexroth NG6 sandwich manifold CAD packaging for a 150-bar system.  
+> **Tools:** `SolidWorks` `Fluid Power` `Bosch Rexroth Standards`
 
-#### 🔹 [Two-Stage Helical Industrial Gearbox](https://github.com/aryanmhj-p)
-> Comprehensive mechanical design of an 11 kW industrial helical gearbox. Detailed stress analysis of gear pairs, stepped shafts, bearing fatigue life estimation, keyways, lubrication circuits, and cast housing feasibility.  
-> **Tools:** `SolidWorks` `Machine Design Standards`
-
-#### 🔹 [PUMA Robotic Arm Kinematics & Control](https://github.com/aryanmhj-p)
-> Complete forward/inverse kinematic modeling, DH-parameter extraction, smooth trajectory generation, and independent joint control implementation.  
-> **Tools:** `MATLAB` `Simulink`
+#### 🔹 [Progressive Shearing Die Design](https://github.com/aryanmhj-p/progressive-shearing-die-design)
+> St12 cold-rolled steel blanking die development, strip nesting optimization (53.4% material yield), and full tooling catalog synthesis (FIBRO, DIN 9822, ISO 8020).  
+> **Tools:** `SolidWorks` `Tooling Design` `DFM`
 
 ---
 
-### 🔬 Active Research & Development
+### 🔬 Active Research & Ongoing Projects
 
-- **Multi-Mode Hybrid Vehicle Powertrain Control:** Developing supervisory energy management strategies and rule-based/optimization control architectures in `MATLAB/Simulink` & `Stateflow`.
+- **Hybrid Vehicle Control & Energy Management:** Designing supervisory control strategies and mode-switching architectures using **MATLAB/Simulink** and **Stateflow**.
+- **1/2-Scale Electric Drift Vehicle Platform:** Sizing of electric powertrain components (motor, inverter, battery management) paired with custom chassis and suspension kinematics.
+- **Robotic Manipulator Kinematics & Joint Control:** Forward/inverse kinematics, trajectory planning, and independent joint feedback control for articulated robotic arms.
 
 ---
 
 ### 🎓 Education
 
-- **B.Sc. in Mechanical Engineering** | *Sharif University of Technology*  
-  *(Expected Graduation: June 2027)*
+- **B.Sc. in Mechanical Engineering**  
+  *Sharif University of Technology*  
+  *Expected Graduation: Late Spring 2027*
 
 ---
 
-### 📫 Connect & Collaborate
+### 📫 Connect
 
-- **LinkedIn:** [linkedin.com/in/aryan-mahjoubi](https://www.linkedin.com/in/aryan-mahjoubi-ba66a0261)
+- **LinkedIn:** [linkedin.com/in/aryan-mahjoubi-ba66a0261](https://www.linkedin.com/in/aryan-mahjoubi-ba66a0261)
 - **GitHub:** [github.com/aryanmhj-p](https://github.com/aryanmhj-p)
-- **Email:** `aryan.mahjoubi@sharif.edu` *(یا ایمیل ترجیحی شما)*
