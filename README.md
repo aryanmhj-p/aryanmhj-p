@@ -2,6 +2,8 @@
 
 I am an undergraduate Mechanical Engineering student at **Sharif University of Technology**, focusing on **Vehicle Dynamics**, **Automotive Control**, and **Mechatronics**. My work bridges physical mechanical design with multi-body dynamics, control theory, and scientific computing.
 
+[📄 View / Download Full CV (PDF)](./Aryan_Mahjoubi_CV.pdf) • [💼 LinkedIn](https://www.linkedin.com/in/aryan-mahjoubi-ba66a0261) • [✉️ Email](mailto:aryan83m@gmail.com)
+
 ---
 
 ### 🔧 Focus Areas
@@ -24,13 +26,13 @@ I am an undergraduate Mechanical Engineering student at **Sharif University of T
 **Mechanical Design & CAD**  
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white)
 ![Geomagic](https://img.shields.io/badge/Geomagic_Design_X-00599C?style=flat-square)
-![ANSYS](https://img.shields.io/badge/ANSYS-FFB300?style=flat-square&logo=ansys&logoColor=black)
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB300?style=flat-square&logo=ansys&logoColor=black)  
 *Mechanism Synthesis • DFM • Tooling Standards (DIN / ISO / FIBRO)*
 
 **Programming & Numerical Methods**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
 *Finite Difference Methods (Explicit / Implicit) • Scientific Computing*
 
 ---
@@ -53,9 +55,9 @@ I am an undergraduate Mechanical Engineering student at **Sharif University of T
 
 ### 🔬 Academic & Coursework Projects
 
-- **Robotic Manipulator Kinematics & Control:** Kinematic modeling (DH parameters), forward and inverse kinematics, obstacle avoidance using potential fields, dynamic simulations, and independent joint control.  
+- **Robotic Manipulator Kinematics & Control:** Kinematic modeling (DH parameters), forward and inverse kinematics for a 3-DOF arm, trajectory generation, and independent joint control in MATLAB/Simulink.  
   *Tools:* `MATLAB` `Simulink`
-- **2D Numerical Heat Conduction Solver:** Developed transient and steady-state finite difference solvers (Explicit and Implicit schemes) for a 2D plate with an internal square cutout under mixed boundary conditions (insulation, constant heat flux, and surface convection).  
+- **2D Numerical Heat Conduction Solver:** Developed transient and steady-state finite difference solvers (Explicit and Implicit schemes) for a 2D domain with an internal cutout under mixed boundary conditions (insulation, constant heat flux, and surface convection).  
   *Tools:* `Python` `NumPy` `Matplotlib`
 
 ---
@@ -71,11 +73,13 @@ I am an undergraduate Mechanical Engineering student at **Sharif University of T
 
 - **B.Sc. in Mechanical Engineering**  
   *Sharif University of Technology*  
-  *Expected Graduation: Late Spring 2027*
+  *Sep 2022 – Late Spring 2027 (Expected)*  
+  *Cumulative GPA: 17.19 / 20.00 (Upper-Division: 18.80 / 20.00) • Konkur Rank: 84th*
 
 ---
 
 ### 📫 Connect
 
+- **Email:** [aryan83m@gmail.com](mailto:aryan83m@gmail.com)
 - **LinkedIn:** [linkedin.com/in/aryan-mahjoubi](https://www.linkedin.com/in/aryan-mahjoubi-ba66a0261)
 - **GitHub:** [github.com/aryanmhj-p](https://github.com/aryanmhj-p)
